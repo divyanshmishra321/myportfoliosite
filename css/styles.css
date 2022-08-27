@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  padding: 0px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #cce7f4;
+}
+h1 {
+  font-size: 30px;
+  color: #66bfbf;
+  text-shadow: 2px 2px #40514E;
+}
+
+h4{
+  font-size: 10px;
+  color: #66bfbf;
+}
+
+h3{
+  font-size: 15px;
+  color: #45b9b9;
+}
+h2{
+  font-size: 30px;
+  color: #45b9b9;
+}
+  
+P{
+  color: #40514E;
+}
+
+
+hr{
+  border: 5px dotted #82908e;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+}
+
+span{
+color: #11999e ;
+}
+
+a{
+  text-decoration: none;
+  padding: 5px 10px;
+
+}
+.footer-link:hover{
+  text-decoration: none;
+  padding: 5px 10px;
+  color: #b2e6e8;
+  /* background-color: rgb(170, 251, 239); */
+  
+}
+
+
+.top-container {
+  padding-top: 50px;
+  background-color: #cce7f4;
+  position: relative;
+  font-family: "Kaushan Script", cursive;
+}
+
+.top-container h4 {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+.top-container h1 {
+  font-size: 3rem;
+  line-height: 2;
+}
+
+.cloud1 {
+  height: 7rem;
+  position: absolute;
+  right: 5rem;
+}
+
+.cloud2 {
+  height: 5rem;
+  width: auto;
+  position: absolute;
+  left: 6rem;
+}
+
+.mountain {
+  height: 30rem;
+  width: auto;
+  margin: 50px auto 0px auto;}
+
+
+
+.profile-img img {
+  width: 15%;
+  border: 2px solid transparent;
+  border-radius: 1000px;
+  margin-top: 0px;
+}
+
+.skills-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px; 
+
+}
+
+.webdev {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+  
+}
+
+.skills h3 {
+  color: #11999e;
+}
+
+.bottom-container a {
+  color: #11999e;
+}
+
+.skill-row{
+  width: 50%;
+  /* display: inline-block; */
+  margin: 10px auto 75px auto;
+  text-align: left;
+}
+ 
+.intro{
+  width: 55%;
+  margin: auto;
+  justify-content: center;
+  line-height: 2;
+}
+
+.bottom-container{
+  color: #11999e;
+  background-color: #66bfbf;
+  margin: 20px auto 0 ;
+  padding: 40px 50px;
+}
+
+.btn{
+  color: #b2e6e8;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  background-color: #11999e;
+  padding: 0.25rem ;
+  box-shadow: 1px 1px #40514E;
+
+}
+
+.btn:hover{
+  color: #35dae0;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  background-color: #aff9fd;
+  padding: 0.25rem ;
+  box-shadow: 1px 1px #40514E;
+
+}
+.footer-link
+
+
+
+
+
